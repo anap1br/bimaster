@@ -1,7 +1,7 @@
 # Ranking de Filmes e Séries: Scraping e Visualização
 
 #### Aluno: [Ana Paula Gomes de Azevedo](https://github.com/anap1br)
-#### Orientador: [Felipe Borges](https://github.com/link_do_github)
+#### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
 
 ---
 
